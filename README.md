@@ -1,4 +1,5 @@
 # Get to know superalignment
+EN|[中文](README_zh.md)
 Feeling confused about super alignment? Start from here
 [OpenAI Introducing Superalignment](https://openai.com/blog/introducing-superalignment)
 

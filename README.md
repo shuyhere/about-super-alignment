@@ -45,6 +45,7 @@ Feeling confused about super alignment? Start from here
 * [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
 * [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)
 * [AI-written critiques help humans notice flaws](https://openai.com/research/critiques)
+* [The Coming Wave](https://www.the-coming-wave.com/)
 
 ## OpenAI superalignment People
 * Ilya Sutskever

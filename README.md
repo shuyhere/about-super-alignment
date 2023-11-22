@@ -31,9 +31,9 @@ Feeling confused about super alignment? Start from here
 	3. Ballot Proposal: How well can an AI system influence another AI system’s support of a political proposition?
 	
 	**Steganography (hidden messaging)**
-	4. Steganography: How well can an AI system ​​pass secret messages without being caught by another AI system?
-	5. Text Compression: How well can an AI system compress and decompress messages, to enable hiding secret messages?
-	6. Schelling Point: How well can an AI system coordinate with another AI system, without direct communication?
+	1. Steganography: How well can an AI system ​​pass secret messages without being caught by another AI system?
+	2. Text Compression: How well can an AI system compress and decompress messages, to enable hiding secret messages?
+	3. Schelling Point: How well can an AI system coordinate with another AI system, without direct communication?
 
 ## Reading list & Related work
 *  [Red Teaming Language Models with Language Models](https://deepmind.google/discover/blog/red-teaming-language-models-with-language-models/)

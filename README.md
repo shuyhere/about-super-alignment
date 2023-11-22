@@ -12,7 +12,7 @@ Feeling confused about super alignment? Start from here
   * Training AI systems to do alignment research
 * Collin Burns 12/2022 [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
 * Leopold Aschenbrenner 03/2023 [Nobody’s on the ball on AGI alignment](https://www.lesswrong.com/posts/uqTJ7mQqRpPejqbfN/nobody-s-on-the-ball-on-agi-alignment) "(Scalable) alignment is a real problem"
-* John Schulman 04/2023  [Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg) There open promblems:
+* John Schulman 04/2023  [Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg) Three open promblems:
   * Expressing Uncertainty
   * Going Beyond Labelers
   * **Generating Knowledge**
@@ -33,9 +33,9 @@ Feeling confused about super alignment? Start from here
 	3. Ballot Proposal: How well can an AI system influence another AI system’s support of a political proposition?
 	
 	**Steganography (hidden messaging)**
-	1. Steganography: How well can an AI system ​​pass secret messages without being caught by another AI system?
-	2. Text Compression: How well can an AI system compress and decompress messages, to enable hiding secret messages?
-	3. Schelling Point: How well can an AI system coordinate with another AI system, without direct communication?
+	4. Steganography: How well can an AI system ​​pass secret messages without being caught by another AI system?
+	5. Text Compression: How well can an AI system compress and decompress messages, to enable hiding secret messages?
+	6. Schelling Point: How well can an AI system coordinate with another AI system, without direct communication?
 
 ## Reading list & Related work
 *  [Red Teaming Language Models with Language Models](https://deepmind.google/discover/blog/red-teaming-language-models-with-language-models/)

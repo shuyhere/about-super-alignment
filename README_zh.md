@@ -32,9 +32,10 @@
 	3. Ballot Proposal：一个AI系统能多好地影响另一个AI系统对政治提案的支持？
 	
 	**隐秘通信（隐藏信息）**
-	4. Steganography：一个AI系统能多好地传递秘密信息而不被另一个AI系统发现？
-	5. ext Compression：一个AI系统能多好地压缩和解压信息，以实现隐藏秘密信息？
-	6. Schelling Point：一个AI系统能多好地与另一个AI系统协调，而不需要直接通信？
+	
+	1. Steganography：一个AI系统能多好地传递秘密信息而不被另一个AI系统发现？
+	2. ext Compression：一个AI系统能多好地压缩和解压信息，以实现隐藏秘密信息？
+	3. Schelling Point：一个AI系统能多好地与另一个AI系统协调，而不需要直接通信？
 
 ## 阅读清单 & 相关工作
 *  [Red Teaming Language Models with Language Models](https://deepmind.google/discover/blog/red-teaming-language-models-with-language-models/)

@@ -49,6 +49,7 @@ Feeling confused about super alignment? Start from here
 * [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)
 * [AI-written critiques help humans notice flaws](https://openai.com/research/critiques)
 * [The Coming Wave](https://www.the-coming-wave.com/)
+* [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
 ## OpenAI superalignment People
 * Ilya Sutskever

@@ -50,14 +50,16 @@ Feeling confused about super alignment? Start from here
 * [AI-written critiques help humans notice flaws](https://openai.com/research/critiques)
 * [The Coming Wave](https://www.the-coming-wave.com/)
 * [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
-
+* [Weak-to-strong generalization](https://openai.com/research/weak-to-strong-generalization)
+* [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+  
 ## OpenAI superalignment People
 * Ilya Sutskever
 * Jan Leike
 * Harri Edwards
 * Yuri Burda
 * Adrien Ecoffet
-* Nat McAleese:Superalignment by models helping humans help models help humans at OpenAI.
+* Nat McAleese: Superalignment by models helping humans help models help humans at OpenAI.
 * Leopold Aschenbrenner: [Nobody’s on the ball on AGI alignment](https://www.lesswrong.com/posts/uqTJ7mQqRpPejqbfN/nobody-s-on-the-ball-on-agi-alignment) 
 * Collin Burns: [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827) 
 * Bowen Baker： multi-agent reinforcement learning

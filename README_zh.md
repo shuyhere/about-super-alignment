@@ -37,6 +37,8 @@
 	2. ext Compression：一个AI系统能多好地压缩和解压信息，以实现隐藏秘密信息？
 	3. Schelling Point：一个AI系统能多好地与另一个AI系统协调，而不需要直接通信？
 
+* OpenAI 12/2023 [Weak-to-strong generalization](https://openai.com/research/weak-to-strong-generalization)
+
 ## 阅读清单 & 相关工作
 *  [Red Teaming Language Models with Language Models](https://deepmind.google/discover/blog/red-teaming-language-models-with-language-models/)
 *  [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)

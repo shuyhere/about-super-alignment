@@ -22,8 +22,6 @@ Feeling confused about super alignment? Start from here
     * validate the resulting model
     * stress test our entire alignment pipeline
   * "To validate the alignment of our systems, we **automate search for problematic behavior (robustness)** and **problematic internals (automated interpretability)**."
- 
-* OpenAI 12/2023 [Weak-to-strong generalization](https://openai.com/research/weak-to-strong-generalization)
 
 * OpenAI 09/2023 [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
   * examples:
@@ -39,6 +37,7 @@ Feeling confused about super alignment? Start from here
 	4. Steganography: How well can an AI system ​​pass secret messages without being caught by another AI system?
 	5. Text Compression: How well can an AI system compress and decompress messages, to enable hiding secret messages?
 	6. Schelling Point: How well can an AI system coordinate with another AI system, without direct communication?
+    *  OpenAI 12/2023 [Weak-to-strong generalization](https://openai.com/research/weak-to-strong-generalization)
 
 ## Reading list & Related work
 *  [Red Teaming Language Models with Language Models](https://deepmind.google/discover/blog/red-teaming-language-models-with-language-models/)

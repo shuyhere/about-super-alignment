@@ -22,6 +22,8 @@ Feeling confused about super alignment? Start from here
     * validate the resulting model
     * stress test our entire alignment pipeline
   * "To validate the alignment of our systems, we **automate search for problematic behavior (robustness)** and **problematic internals (automated interpretability)**."
+ 
+* OpenAI 12/2023 [Weak-to-strong generalization](https://openai.com/research/weak-to-strong-generalization)
 
 * OpenAI 09/2023 [OpenAI Red Teaming Network](https://openai.com/blog/red-teaming-network)
   * examples:

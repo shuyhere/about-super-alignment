@@ -50,6 +50,10 @@
 * [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)
 * [AI-written critiques help humans notice flaws](https://openai.com/research/critiques)
 * [The Coming Wave](https://www.the-coming-wave.com/)
+* [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
+* [Weak-to-strong generalization](https://openai.com/research/weak-to-strong-generalization)
+* [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+  
 
 ## OpenAI superalignment people
 * Ilya Sutskever

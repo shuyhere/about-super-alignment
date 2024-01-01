@@ -6,7 +6,7 @@ Feeling confused about super alignment? Start from here
 
 ## Timeline
 * OpenAI 01/2022 :[Aligning language models to follow instructions](https://openai.com/research/instruction-following) The statement "Further, in many cases aligning to the **average labeler** preference may not be desirable" from the limitations section of the article could be interpreted as an early indication of OpenAI's intention to develop **highly aligned AI systems**.
-* OpenAI 08/2022 [Our approach to alignment research](https://openai.com/blog/our-approach-to-alignment-research) "We are improving our Al system's ability to learn from human feedback and to assist humans at evaluating Al.Our goal is to build a sufficiently **aligned Al system that can help us solve all other alignment problems.**" There keynotes:
+* OpenAI 08/2022 [Our approach to alignment research](https://openai.com/blog/our-approach-to-alignment-research) "We are improving our Al system's ability to learn from human feedback and to assist humans at evaluating Al. Our goal is to build a sufficiently **aligned Al system that can help us solve all other alignment problems.**" There keynotes:
   * Training AI systems using human feedback
   * Training AI systems to assist human evaluation
   * Training AI systems to do alignment research

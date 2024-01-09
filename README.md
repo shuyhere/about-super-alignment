@@ -3,6 +3,7 @@ EN|[中文](README_zh.md)
 
 Feeling confused about super alignment? Start from here
 [OpenAI Introducing Superalignment](https://openai.com/blog/introducing-superalignment)
+[Superalignment Fast Grants](https://openai.com/blog/superalignment-fast-grants)
 
 ## Timeline
 * OpenAI 01/2022 :[Aligning language models to follow instructions](https://openai.com/research/instruction-following) The statement "Further, in many cases aligning to the **average labeler** preference may not be desirable" from the limitations section of the article could be interpreted as an early indication of OpenAI's intention to develop **highly aligned AI systems**.
